@@ -13,11 +13,19 @@ It will provide its user the following features.
 
 For Organic Product’s customer: 
       •	Customer can register account.
+      
       •	Customer can login and manage their account.
+      
       •	Customer can search any products such as: vegetables, food, canned foods, etc.
+      
       •	Customer can search products by price. 
+      
       •	Customer can see products’ introduction before buying. 
+      
       •	Customer can buy products after adding products to cart. 
+      
       •	Customer can view cart history. 
+      
       •	Customer can check out.
+      
       •	Customer can interact with website by giving question, feedback on contact us function.
